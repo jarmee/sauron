@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/jarmee/sauron/issues"
   },
-  "homepage": "https://github.com/jarmee/sauron#readme"
+  "homepage": "https://github.com/jarmee/sauron#readme",
+  "devDependencies": {
+    "@nrwl/nx-cloud": "^19.1.0"
+  }
 }

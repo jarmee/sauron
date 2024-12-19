@@ -1,0 +1,19 @@
+{
+  "name": "sauron",
+  "version": "1.0.0",
+  "description": "Playground Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jarmee/sauron.git"
+  },
+  "author": "jarmee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jarmee/sauron/issues"
+  },
+  "homepage": "https://github.com/jarmee/sauron#readme"
+}
